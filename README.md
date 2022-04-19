@@ -1,0 +1,2 @@
+# agenslot.github.io
+slot
